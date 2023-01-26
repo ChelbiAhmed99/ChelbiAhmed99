@@ -1,7 +1,10 @@
 - 👋 Hi, I'm Ahmed CHELBI 👋 Embedded Systems & Connected Objects Engineering Student
 - 👀 I’m interested in Robotics, AI, IOT, New technologies & Innovations.
 - 📫 How to reach me: Email:Chelbiahmed501@gmail.com
-
+- 
+## Connect with me 🔗: 
+[<img align="left" alt="AhmedCHELBI | LinkedIn" width="22px" src="www.linkedin.com/in/ahmed-chelbi" />][facebook]
+[<img align="left" alt="AhmedCHELBI | Facebook" width="22px" src="https://www.facebook.com/ahmed.chelbi.148" />][Facebook]
 <!---
 ChelbiAhmed99/ChelbiAhmed99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -20,7 +23,7 @@ You can click the Preview link to take a look at your changes.
  
 </a>
   
-  <a href="https://github.com/adityamangal1">
+  <a href="https://github.com/ChelbiAhmed99">
   <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   </a>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
@@ -35,9 +38,8 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://github-readme-stats.vercel.app/api?username=adityamangal1&&show_icons=true&&theme=radical">  
   
-[facebook]: https://www.facebook.com/aditya.mangal2/
-[instagram]: https://www.instagram.com/adityamangal/
-[twitter]: https://twitter.com/AdityaM44382015/
+[facebook]: https://www.facebook.com/ahmed.chelbi.148/
+[Linkedin]: www.linkedin.com/in/ahmed-chelbi/
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=adityamangal1&theme=flat&margin-w=15">
